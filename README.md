@@ -75,7 +75,7 @@ python main/pets_main.py --exp_id pets-gt-gym_cheetah \
 ### 4. Probabilistic Inference for Learning Control (PILCO) ![#f17819](https://placehold.it/15/f17819/000000?text=+)
 Deisenroth, M., & Rasmussen, C. E. (2011). PILCO: A model-based and data-efficient approach to policy search. In Proceedings of the 28th International Conference on machine learning (ICML-11) (pp. 465-472). [Link](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Deisenroth_ICML_2011.pdf)
 
-We implemented and benchmarked the environments in this repo [PILCO](https://github.com/WilsonWangTHU/mbbl-PILCO) (will be set public soon).
+We implemented and benchmarked the environments in this repo [PILCO](https://github.com/edlanglois/mbbl-pilco).
 
 ### 5. Iterative Linear Quadratic-Gaussian (iLQG) ![#22d50c](https://placehold.it/15/22d50c/000000?text=+)
 Tassa, Y., Erez, T., & Todorov, E. (2012, October). Synthesis and stabilization of complex behaviors through online trajectory optimization. In 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (pp. 4906-4913). IEEE. [Link](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf)
